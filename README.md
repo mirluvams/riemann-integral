@@ -7,14 +7,6 @@ Este repositorio contiene un código en C para realizar la integración paralela
 - Compilador de C compatible con MPI
 - Biblioteca MPI instalada
 
-## Compilación
-
-Para compilar el código, se debe utilizar un compilador compatible con MPI. A continuación se muestra un ejemplo de compilación utilizando el compilador `mpicc`:
-
-```
-mpicc -o integration integration.c
-```
-
 ## Uso
 
 El programa se puede ejecutar utilizando el siguiente comando:
