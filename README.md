@@ -1,4 +1,4 @@
-# Código de integración paralela utilizando MPI
+# Integral de Riemann de forma paralela utilizando MPI
 
 Este repositorio contiene un código en C para realizar la integración paralela de una función utilizando la biblioteca MPI (Message Passing Interface). El código divide el intervalo de integración en segmentos y distribuye el cálculo de forma paralela entre los procesos. Al final, se realiza la suma de los resultados obtenidos en cada proceso para obtener el resultado final de la integral.
 
