@@ -27,8 +27,7 @@ El programa calculará la integral de la función definida en la función `f(x)`
 
 A continuación se muestra un ejemplo de cómo ejecutar el programa:
 
-```
-$ make && mpiexec -l -n 8 ./barber 0 1 10 1000```
+``` make && mpiexec -l -n 8 ./barber 0 1 10 1000 ```
 
 <img src="/result.png" alt="Input image" width="200" height="200"/>
 
